@@ -41,7 +41,7 @@ I'm a passionate full-stack developer specializing in modern JavaScript and Node
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:hello@cantinbartel.dev)
 [![Personal Site](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=aboutdotme&logoColor=white)](https://cantinbartel.dev)
-[![Freelancer](https://img.shields.io/badge/Freelancer-%2329B2FE.svg?style=flat&logo=freelancer&logoColor=white)](https://freelancer.com/u/yourprofile)
+<!-- [![Freelancer](https://img.shields.io/badge/Freelancer-%2329B2FE.svg?style=flat&logo=freelancer&logoColor=white)](https://freelancer.com/u/yourprofile) -->
 
 ---
 
